@@ -21,7 +21,7 @@ Napisz program, który utworzy dwa zbiory, wczyta je od użytkownika
 (liczby dla pierwszego zbioru będą podane w pierwszej linii, dla drugiego w drugiej linii). 
 Wynikiem programu ma być wypisanie zbioru, który jest wynikiem operacji:
 
-![Operacja](./Tex2Img_1621081541)
+![Operacja](./Tex2Img_1621081541.jpg)
 
 >Dane wejściowe: 
 > 
